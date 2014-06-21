@@ -1,3 +1,7 @@
+# Making Of
+
+Write-up on qiita here: http://qiita.com/kimagure/items/9b370ac2fb970562215a
+
 # atom-spotify :notes:
 
 Displays the currently playing song in Spotify in Atom's status bar.
